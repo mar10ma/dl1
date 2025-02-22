@@ -4,7 +4,7 @@ This project fine-tunes a pre-trained MobileNetV2 model to classify images of di
 
 📌 Steps in the Project:
 
-1️⃣ Load and preprocess the TF-Flowers dataset.
+### 1️⃣ Load and preprocess the TF-Flowers dataset.
 2️⃣ Use MobileNetV2 as a base model (without top layers).
 3️⃣ Freeze the base model and add custom classification layers.
 4️⃣ Train the model on the dataset (initial training).
